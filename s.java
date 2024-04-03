@@ -21,7 +21,5 @@ public class StringExample
 		String s7 = "total " + x + y;
 		String s8 = " " + x + y + "total";
 		System.out.println("s6: " + s6);
-		System.out.println("s7: " + s7);
-		System.out.println("s8: " + s8);
 	}
 }
