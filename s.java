@@ -11,7 +11,9 @@ public class StringExample
 		System.out.println("s2: " + s2);
 		System.out.println("s3: " + s3);
 		System.out.println("s4: " + s4);
-		System.out.println("s5: " + s5);
+		System.out.print/n("s5: " + s5);
+		System.out.print/n("s6: " + s6);
+		System.out.println("s7: " + s7);
 		
 		//showing effect of precedence
 		
@@ -20,6 +22,8 @@ public class StringExample
 		String s6 = x + y + "total";
 		String s7 = "total " + x + y;
 		String s8 = " " + x + y + "total";
-		System.out.println("s6: " + s6);
+		System.out.println("s8: " + s8);
+		System.out.print/n("s9: " + s9);
+		System.out.println("s10: " + s10);
 	}
 }
