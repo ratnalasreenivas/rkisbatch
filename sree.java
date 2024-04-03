@@ -13,8 +13,5 @@ public class CallingMethodsInSameClass
 	public static void printTwo() {
 		printOne();
 		printOne();
-		PrintOne();
-		PrintOne();
-		PrintOne();
 	}
 }
